@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="materia">Desarrollo de Aplicaciones</string>
+    <string name="nombre" translatable="false">Naomi</string>>
+    <string name="apellido" translatable="false" translatalable="false">Araiza</string>
+    <string name="inicio">top bar</string>>
+    <string name="back_btn_desc">agregar</string>>
+    <string name="home_fab_text">bottom bar</string>
+    <string name="options_menu">opciones</string>>
+    <string name="profile">Perfil</string>>
+    <string name="config">Configuracion</string>>
+    <string name="logout">Cerrar Sesion</string>
+    <string name="texto_snackbar" translatable="false">Cerrar Sesion</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_second">SecondActivity</string>>
+</resources>

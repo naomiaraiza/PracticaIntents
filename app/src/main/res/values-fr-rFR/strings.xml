@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practiques 3</string>
+    <string name="materia">Développement d applications mobiles</string>
+    <string name="nombre">Naomi</string>>
+    <string name="apellido">Araiza</string>>
+    <string name="inicio">Nosequevaaqui</string>>
+    <string name ="back_btn_desc">atras</string>>
+    <string name ="home_fab_text">otro string</string>
+    <string name="options_menu">opciones</string>>
+    <string name="profile">Profile</string>>
+    <string name="config">Config</string>>
+    <string name="logout">Logout</string>>
+</resources>
